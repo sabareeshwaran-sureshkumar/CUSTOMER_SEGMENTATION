@@ -1,0 +1,11 @@
+RegionID,RegionName,ManagerName,Sales,TotalCustomers,AveragePurchase,CreatedAt,UpdatedAt,IsActive
+1,Lake Laura,Thomas Aguilar,43019.92,,4433.72,2024-01-04,2024-04-11,True
+2,South Stacyfort,Paul Santana,14500.79,,711.44,2024-08-15,2024-08-27,False
+3,New John,Anthony Carter,27382.83,15.0,563.73,2024-06-17,2024-08-20,False
+4,North Luis,Michael Turner,12479.85,95.0,497.13,2024-05-30,2024-06-07,False
+5,Kristenshire,Stanley Lowery,16441.25,152.0,471.92,2024-09-04,2024-03-07,True
+6,New Shelby,Benjamin Carter,20663.91,135.0,1765.83,2024-02-28,2024-01-12,False
+7,New James,Courtney Murphy,27153.08,,3711.79,2024-04-06,2024-09-17,True
+8,South Charlesberg,Rebecca Humphrey,38489.85,193.0,833.39,2024-07-20,2024-08-13,True
+9,Port Kathryn,Sarah Evans,3487.31,,1553.21,2024-06-24,2024-01-16,False
+10,Salazarbury,Daniel Gray,1947.64,,2045.64,2024-08-31,2024-01-21,True
